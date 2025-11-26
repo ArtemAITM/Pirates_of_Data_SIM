@@ -1,1 +1,2 @@
-opencv-python
+pip install opencv-python
+pip install --upgrade Flask
